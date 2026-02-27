@@ -1,4 +1,4 @@
-#pragma once
+#pragma  once
 
 #ifdef BANANA_USE_3D
     #ifdef BANANA_USE_VULKAN
