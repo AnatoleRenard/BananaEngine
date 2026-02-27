@@ -1,0 +1,6 @@
+*.o
+./main
+*.txt
+main.cpp
+.DS_Store
+res/

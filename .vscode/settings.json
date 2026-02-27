@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/anatole/Code/C++/Banana",
+            "binaryPath": "/Users/anatole/Code/C++/Banana/main",
+            "binaryArgs": []
+        }
+    ]
+}
